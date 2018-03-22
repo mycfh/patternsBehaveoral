@@ -1,2 +1,2 @@
-# patternsBehaveoral
-Patterns Behaveoral Java
+# patternsBehavioral
+Patterns Behavioral Java
